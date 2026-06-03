@@ -65,12 +65,5 @@ The dataset contains structured sales data including:
 - Quantity trends show variation across product categories
 
 
-🚀 Future Enhancements
-
-- Add time-series forecasting
-- Implement drill-through analysis
-- Connect to live database (SQL)
-- Improve UI with advanced themes
-
 
 
